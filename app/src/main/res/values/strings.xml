@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyEvents</string>
+    <string name="dap_logo">DAP Logo</string>
+    <string name="campus_igualada_udl">Campus Igualada - UdL</string>
+    <string name="introduce_name">Introduce name:</string>
+    <string name="introduce_desc">Introduce description:</string>
+    <string name="introduce_start">Introduce start (date):</string>
+    <string name="introduce_end">Introduce end (date):</string>
+    <string name="name">Name</string>
+    <string name="create">Create</string>
+    <string name="back">Back</string>
+    <string name="bio">Bio:</string>
+    <string name="start">start</string>
+    <string name="check">check</string>
+</resources>
